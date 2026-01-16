@@ -94,7 +94,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 ## Autor
 
-Tu Nombre - [@tu-usuario](https://github.com/tu-usuario)
+Tu Nombre Milianny Cova Perdomo https://github.com/Miliyoga
 
 ## Agradecimientos
 
