@@ -7,8 +7,7 @@ int main() {
     std::cout << "Enter your name: ";
     std::getline(std::cin, name);
 
-    std::cout << "Hello, " << name << "Bob" << std::endl;
+    std::cout << "Hello, " << name << std::endl;
 
     return 0;
 }
-// This program prompts the user for their name and greets them.
